@@ -1,5 +1,6 @@
 # **Welcome to my NodeJS Study Course**
 I will be using this site for personal notes, code uploads, and more.
+My notes I have taken for this entire course can be found [here](https://github.com/TheRealWulf/NodeJS-Study/blob/master/notes.md).
 
 ---
 ## **Table of Contents**
