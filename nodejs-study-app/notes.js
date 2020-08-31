@@ -3,10 +3,6 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-const getNotes = () => {
-    return 'Your notes...'
-}
-
 // This will check to see if the data inputed will be a duplicate or not.
 const addNote = (title, body) => {
     const notes = loadNotes()
@@ -84,7 +80,6 @@ const readNote = (title) => {
 }
 
 module.exports = {
-    getNotes: getNotes,
     addNote: addNote,
     removeNote: removeNote,
     listNotes: listNotes,
