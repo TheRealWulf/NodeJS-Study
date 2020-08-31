@@ -12,6 +12,8 @@ const addNote = (title, body) => {
     const duplicateNotes = notes.filter((note) => note.title === title)
     const duplicateNote = notes.find((note) => note.title === title)
 
+    debugger
+
     // ! logical not operator
     if (!duplicateNote) { // If there is no duplicate note.
         notes.push({
