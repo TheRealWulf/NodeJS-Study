@@ -2,7 +2,7 @@
 
 ## **Arrow Function**
 
-Arrow functions do not bind their own "this" value. Doesn't bind to the this function!
+Arrow functions do not bind their own **this** value. Doesn't bind to the **this** function!
 ```
 const event = {
     name: 'Birthday Party',
@@ -20,7 +20,7 @@ const event = {
     }
 }
 ```
-Arrow Functions don't bind their own "this" value. This makes them poor candidates for methods and makes them great candidates for anything else.
+Arrow Functions don't bind their own **this** value. This makes them poor candidates for methods and makes them great candidates for anything else.
 ```
 const event = {
     name: 'Birthday Party',
