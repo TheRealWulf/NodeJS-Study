@@ -48,3 +48,15 @@ const event = {
     }
 }
 ```
+Shorthand Example
+```
+    handler: function (argv) {
+        notes.addNote(argv.title, argv.body)
+    }
+
+// To
+
+    handler(argv) {
+        notes.addNote(argv.title, argv.body)
+    }
+```
