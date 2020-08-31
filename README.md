@@ -4,7 +4,7 @@ I will be using this site for personal notes, code uploads, and more.
 ---
 ## **Table of Contents**
   * [**Chapters of the Course**](#chapters-of-the-course)
-  * [**What I'll Learn**](#what-i'll-learn)
+  * [**Expected to Learn**](#expected-to-learn)
   * [**Hopes and Goals**](#hopes-and-goals)
 ---
 
@@ -32,8 +32,8 @@ I will be using this site for personal notes, code uploads, and more.
 ```
 ---
 
-## **What I'll Learn**
-```mermaid graph TD;
+## **Expected to Learn**
+```
 - Build, test, and launch Node apps 
 - Create Express web servers and APIs
 - Store data with Mongoose and MongoDB
