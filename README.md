@@ -3,9 +3,9 @@ I will be using this site for personal notes, code uploads, and more.
 
 ---
 ## **Table of Contents**
-  * [**Chapters of the Course**](#--chapters-of-the-course--)
-  * [**What I'll Learn**](#--what-i'll-learn--)
-  * [**Hopes and Goals**](#--hopes-and-goals--)
+  * [**Chapters of the Course**](#chapters-of-the-course)
+  * [**What I'll Learn**](#what-i'll-learn)
+  * [**Hopes and Goals**](#hopes-and-goals)
 ---
 
 ## **Chapters of the Course:**
