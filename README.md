@@ -46,3 +46,14 @@ My notes I have taken for this entire course can be found [here](https://github.
 
 ## **Hopes and Goals**
 My hopes and goals for this course is to obtain a proficient understanding of NodeJS, JavaScript, and GitHub that will allow different doors of employment to open up. From there I will continue to learn more from experiences, free time, and multiple projects. I vouche to be a creative and motivated individual that develops unique and awesome apps for myself and others.
+
+
+## Setup
+
+Must create a config.json file located in the root directory
+
+```json
+{
+    "mapboxKey": "....."
+}
+```
