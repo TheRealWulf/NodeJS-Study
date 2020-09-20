@@ -1,5 +1,6 @@
 const request = require('request');
 const geocode = require("./utils/geocode");
+const fs = require("fs");
 // const url = 'http://api.weatherstack.com/current?access_key=e9d0ddc1da3a4f450a3e7e4e0c247501&query=37.8267,-122.4233&units=f';
 
 // request({ url: url, json: true }, (error, response) => {
@@ -29,8 +30,10 @@ const geocode = require("./utils/geocode");
 // });
 
 
+const config = JSON.parse(fs.readFileSync('../config.json').toString());
 
-geocode('Boston', (error, data) => {
+
+geocode('Boston', config, (error, data) => {
     console.log("Error", error);
     console.log("Data", data);
 });
